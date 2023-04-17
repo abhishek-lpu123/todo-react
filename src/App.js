@@ -47,11 +47,7 @@ const App = () => {
                 key= {index}
                 id= {index}
                 onSelect = {deleteItems}
-
               />
-              
-              
-              
               );
             })} 
           </ol>
